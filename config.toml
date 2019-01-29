@@ -48,22 +48,11 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "tags"
   url = "/tags/"
 
-# [[languages.en.menu.main]]
-#   name = "Categories"
-#   weight = 40
-#   identifier = "categories"
-#   url = "/categories/"
-
-# [[languages.en.menu.main]]
-#   name = "external-link"
-#   weight = 50
-#   url = "https://gohugo.io"
-
-# [[languages.en.menu.main]]
-#   name = "Docs"
-#   weight = 110
-#   identifier = "docs"
-#   url = "/categories/docs/"
+[[languages.en.menu.main]]
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
 
 [[languages.pl.menu.main]]
   name = "Strona główna"
@@ -83,16 +72,11 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "tags"
   url = "pl/tags/"
 
-# [[languages.pl.menu.main]]
-#   name = "Kategorie"
-#   weight = 40
-#   identifier = "categories"
-#   url = "pl/categories/"
-
-# [[languages.pl.menu.main]]
-#   name = "外部链接"
-#   weight = 50
-#   url = "https://gohugo.io"
+[[languages.pl.menu.main]]
+  name = "Kategorie"
+  weight = 40
+  identifier = "categories"
+  url = "pl/categories/"
 
 [author]                  # essential                     # 必需
   name = ""
@@ -122,14 +106,10 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "categories"
   url = "/categories/"
-# [[menu.main]]
-#   name = "external-link"
-#   weight = 50
-#   url = "https://gohugo.io"
 
 
 [params]
-  since = "2017"            # Site creation time          # 站点建立时间
+  since = "2018"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 

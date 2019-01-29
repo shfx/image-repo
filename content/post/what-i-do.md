@@ -3,8 +3,8 @@ title: "Anarchism - what I really do"
 date: 2018-03-06T16:01:23+08:00
 lastmod: 2018-03-07T16:01:23+08:00
 draft: false
-tags: ["anarchism", "meme"]
-#categories: ["test"]
+tags: ["anarchism"]
+categories: ["meme"]
 ---
 
 {{< gallery >}}
