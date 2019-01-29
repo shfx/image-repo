@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Stickers repo - activist graphics repository</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Stickers repo - activist graphics repository</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 Apr 2018 12:21:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anarchism</title>
+      <link>http://localhost:1313/tags/anarchism/</link>
+      <pubDate>Fri, 06 Apr 2018 12:21:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/anarchism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anti Capitalism</title>
+      <link>http://localhost:1313/tags/anti-capitalism/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/anti-capitalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meme</title>
+      <link>http://localhost:1313/tags/meme/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/meme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegan</title>
+      <link>http://localhost:1313/tags/vegan/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/vegan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

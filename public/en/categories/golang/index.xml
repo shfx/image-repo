@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Jane - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/en/categories/golang/</link>
+    <description>Recent content in Golang on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/en/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test test</title>
+      <link>http://localhost:1313/en/post/a/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/post/a/</guid>
+      <description>asdsad s ads as</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>http://localhost:1313/en/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable</description>
+    </item>
+    
+  </channel>
+</rss>
