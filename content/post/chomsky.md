@@ -6,8 +6,7 @@ draft: false
 tags: ["anarchism"]
 ---
 
-{{< gallery >}}
-  {{< figure src="/image/da9896b8d08951a878124c5ef903b56b.jpg" >}}
-{{< /gallery >}}
-<!--more-->
-Anarchism does not mean bloodshed; it does not mean robbery, arson, etc.. These monstrosities are, on the contrary, the characteristic features of capitalism
+{{< gallery >}}   {{< figure src="/image/da9896b8d08951a878124c5ef903b56b.jpg"
+>}} {{< /gallery >}} <!--more--> Anarchism does not mean bloodshed; it does
+not mean robbery, arson, etc.. These monstrosities are, on the contrary, the
+characteristic features of capitalism

@@ -7,6 +7,6 @@ tags: ["anarchism"]
 ---
 
 {{< gallery >}}
-  {{< figure src="/image/Feudalism-now-and-then.jpg" caption="Feudalism now and then" >}}
+  {{< figure src="/image/Feudalism-now-and-then.jpg" caption="Feudalism then and now" >}}
 {{< /gallery >}}
 <!--more-->

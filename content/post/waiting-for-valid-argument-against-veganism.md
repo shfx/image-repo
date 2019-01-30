@@ -7,6 +7,6 @@ tags: ["vegan"]
 ---
 
 {{< gallery>}}
-  {{< figure src="/image/waiting_for_valid_arg.jpg"  caption="Waiting for a valid argument against veganism">}}
+  {{< figure src="/image/waiting_for_valid_arg.jpg"  alt="Waiting for a valid argument against veganism">}}
 {{< /gallery >}}
 <!--more-->
