@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anarchism on Image-repo - activist, anarchist repository</title>
-    <link>http://localhost:1313/tags/anarchism/</link>
-    <description>Recent content in Anarchism on Image-repo - activist, anarchist repository</description>
+    <title>Anarchism on Image repo</title>
+    <link>https://qstosh.github.io/image-repo/tags/anarchism/</link>
+    <description>Recent content in Anarchism on Image repo</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 22 Jan 2019 12:21:23 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/anarchism/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qstosh.github.io/image-repo/tags/anarchism/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chomsky - still alive, still kicking</title>
-      <link>http://localhost:1313/post/chomsky/</link>
+      <link>https://qstosh.github.io/image-repo/post/chomsky/</link>
       <pubDate>Tue, 22 Jan 2019 12:21:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/chomsky/</guid>
+      <guid>https://qstosh.github.io/image-repo/post/chomsky/</guid>
       <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
        
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qstosh.github.io/image-repo/image-repo/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34;&gt;
 &lt;figure  itemprop=&#34;associatedMedia&#34;
   itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//image/da9896b8d08951a878124c5ef903b56b.jpg&#39;);&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/image/da9896b8d08951a878124c5ef903b56b.jpg&#34; /&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qstosh.github.io/image-repo//image/da9896b8d08951a878124c5ef903b56b.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qstosh.github.io/image-repo/image/da9896b8d08951a878124c5ef903b56b.jpg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;http://localhost:1313/image/da9896b8d08951a878124c5ef903b56b.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://qstosh.github.io/image-repo/image/da9896b8d08951a878124c5ef903b56b.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
  
@@ -34,21 +34,21 @@
     
     <item>
       <title>Feudalism then and now</title>
-      <link>http://localhost:1313/post/feudalism-now-and-then/</link>
+      <link>https://qstosh.github.io/image-repo/post/feudalism-now-and-then/</link>
       <pubDate>Tue, 22 Jan 2019 12:21:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/feudalism-now-and-then/</guid>
+      <guid>https://qstosh.github.io/image-repo/post/feudalism-now-and-then/</guid>
       <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
     
   
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qstosh.github.io/image-repo/image-repo/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34;&gt;
 &lt;figure  itemprop=&#34;associatedMedia&#34;
   itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//image/Feudalism-now-and-then.jpg&#39;);&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/image/Feudalism-now-and-then.jpg&#34; alt=&#34;Feudalism then and now&#34;/&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qstosh.github.io/image-repo//image/Feudalism-now-and-then.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qstosh.github.io/image-repo/image/Feudalism-now-and-then.jpg&#34; alt=&#34;Feudalism then and now&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;http://localhost:1313/image/Feudalism-now-and-then.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://qstosh.github.io/image-repo/image/Feudalism-now-and-then.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;
           &lt;p&gt;Feudalism then and now&lt;/p&gt;
       &lt;/figcaption&gt;
@@ -61,21 +61,21 @@
     
     <item>
       <title>No gods, no masters</title>
-      <link>http://localhost:1313/post/no-gods/</link>
+      <link>https://qstosh.github.io/image-repo/post/no-gods/</link>
       <pubDate>Fri, 06 Apr 2018 12:21:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/no-gods/</guid>
+      <guid>https://qstosh.github.io/image-repo/post/no-gods/</guid>
       <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
     
   
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qstosh.github.io/image-repo/image-repo/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34;&gt;
 &lt;figure  itemprop=&#34;associatedMedia&#34;
   itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//image/20130719-anarchy.jpg&#39;);&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/image/20130719-anarchy.jpg&#34; alt=&#34;No gods, no masters&#34;/&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qstosh.github.io/image-repo//image/20130719-anarchy.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qstosh.github.io/image-repo/image/20130719-anarchy.jpg&#34; alt=&#34;No gods, no masters&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;http://localhost:1313/image/20130719-anarchy.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://qstosh.github.io/image-repo/image/20130719-anarchy.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;
           &lt;p&gt;No gods, no masters&lt;/p&gt;
       &lt;/figcaption&gt;
@@ -88,21 +88,21 @@
     
     <item>
       <title>Anarchism - what I really do</title>
-      <link>http://localhost:1313/post/what-i-do/</link>
+      <link>https://qstosh.github.io/image-repo/post/what-i-do/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/what-i-do/</guid>
+      <guid>https://qstosh.github.io/image-repo/post/what-i-do/</guid>
       <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
     
   
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qstosh.github.io/image-repo/image-repo/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34;&gt;
 &lt;figure  itemprop=&#34;associatedMedia&#34;
   itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//image/anarchismpost.jpg&#39;);&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/image/anarchismpost.jpg&#34; alt=&#34;Anarchism - what I really do&#34;/&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qstosh.github.io/image-repo//image/anarchismpost.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qstosh.github.io/image-repo/image/anarchismpost.jpg&#34; alt=&#34;Anarchism - what I really do&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;http://localhost:1313/image/anarchismpost.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://qstosh.github.io/image-repo/image/anarchismpost.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;
           &lt;p&gt;Anarchism - what I really do&lt;/p&gt;
       &lt;/figcaption&gt;
