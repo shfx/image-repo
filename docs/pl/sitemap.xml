@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="https://qstosh.github.io/image-repo/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://qstosh.github.io/image-repo/pl/o-nas/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://qstosh.github.io/image-repo/pl/post/plants-have-protein/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://qstosh.github.io/image-repo/pl/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qstosh.github.io/image-repo/pl/post/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qstosh.github.io/image-repo/pl/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qstosh.github.io/image-repo/pl/tags/vegan/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qstosh.github.io/image-repo/pl/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
