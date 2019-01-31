@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://qstosh.github.io/docs/sitemap.xml
+Sitemap: https://qstosh.github.io/image-repo/sitemap.xml
