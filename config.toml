@@ -3,7 +3,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "http://localhost:1313/"
-title = "Jane - A super concise theme for Hugo"
+title = "Stickers repo"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -22,11 +22,11 @@ showMenuLanguageChooser = true
 # language support # en / pl / other... translations present in i18n/
 defaultContentLanguage = "en"           # Default language to use
 [languages.en]
-  title = "Stickers repo - activist graphics repository"
+  title = "Image repo"
   languageName = "English"
   weight = 1
 [languages.pl]
-  title = "Wlepozytorium - repozytorium grafiki zaangażowan"
+  title = "Wlepozytorium"
   languageName = "Polski"
   weight = 2
 
