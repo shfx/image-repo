@@ -3,8 +3,8 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 publishDir = "docs"
-# baseURL = "https://qstosh.github.io/image-repo/"
-baseURL = "http://localhost:1313/"
+baseURL = "https://qstosh.github.io/docs"
+# baseURL = "http://localhost:1313/"
 title = "Jane - A super concise theme for Hugo"
 enableRobotsTXT = true
 enableEmoji = true

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vegan on Wlepozytorium - repozytorium grafiki zaangażowan</title>
-    <link>http://localhost:1313/pl/tags/vegan/</link>
+    <link>https://qstosh.github.io/docs/pl/tags/vegan/</link>
     <description>Recent content in Vegan on Wlepozytorium - repozytorium grafiki zaangażowan</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/pl/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qstosh.github.io/docs/pl/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rośliny mają białko</title>
-      <link>http://localhost:1313/pl/post/plants-have-protein/</link>
+      <link>https://qstosh.github.io/docs/pl/post/plants-have-protein/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/pl/post/plants-have-protein/</guid>
+      <guid>https://qstosh.github.io/docs/pl/post/plants-have-protein/</guid>
       <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
     
   
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://qstosh.github.io/docs/docs/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34;&gt;
 &lt;figure  itemprop=&#34;associatedMedia&#34;
   itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//image/plants_have_protein.jpg&#39;);&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/image/plants_have_protein.jpg&#34; alt=&#34;Jesteś weganinem? Skąd bierzesz biał..., Rośliny mają białko!&#34;/&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qstosh.github.io/docs/image/plants_have_protein.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qstosh.github.io/docs/image/plants_have_protein.jpg&#34; alt=&#34;Jesteś weganinem? Skąd bierzesz biał..., Rośliny mają białko!&#34;/&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;http://localhost:1313/image/plants_have_protein.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://qstosh.github.io/docs/image/plants_have_protein.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;
           &lt;p&gt;Jesteś weganinem? Skąd bierzesz biał..., Rośliny mają białko!&lt;/p&gt;
       &lt;/figcaption&gt;
