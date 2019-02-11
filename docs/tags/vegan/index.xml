@@ -23,7 +23,7 @@
 &lt;div class=&#34;box&#34;&gt;
 &lt;figure  itemprop=&#34;associatedMedia&#34;
   itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qstosh.github.io/image-repo/image/plants_have_protein.jpg&#39;);&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qstosh.github.io/image-repo//image/plants_have_protein.jpg&#39;);&#34;&gt;
       &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qstosh.github.io/image-repo/image/plants_have_protein.jpg&#34; alt=&#34;You&amp;#39;re vegan? How do you get prot..., Plants have protein&#34;/&gt;
     &lt;/div&gt;
     &lt;a href=&#34;https://qstosh.github.io/image-repo/image/plants_have_protein.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
@@ -50,7 +50,7 @@
 &lt;div class=&#34;box&#34;&gt;
 &lt;figure  itemprop=&#34;associatedMedia&#34;
   itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
-    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qstosh.github.io/image-repo/image/waiting_for_valid_arg.jpg&#39;);&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://qstosh.github.io/image-repo//image/waiting_for_valid_arg.jpg&#39;);&#34;&gt;
       &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://qstosh.github.io/image-repo/image/waiting_for_valid_arg.jpg&#34; alt=&#34;Waiting for a valid argument against veganism&#34;/&gt;
     &lt;/div&gt;
     &lt;a href=&#34;https://qstosh.github.io/image-repo/image/waiting_for_valid_arg.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
