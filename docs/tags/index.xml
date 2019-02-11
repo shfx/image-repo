@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Image repo</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://qstosh.github.io/image-repo/tags/</link>
     <description>Recent content in Tags on Image repo</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 22 Jan 2019 12:21:23 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qstosh.github.io/image-repo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Anarchism</title>
-      <link>http://localhost:1313/tags/anarchism/</link>
+      <link>https://qstosh.github.io/image-repo/tags/anarchism/</link>
       <pubDate>Tue, 22 Jan 2019 12:21:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/anarchism/</guid>
+      <guid>https://qstosh.github.io/image-repo/tags/anarchism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anti Capitalism</title>
-      <link>http://localhost:1313/tags/anti-capitalism/</link>
+      <link>https://qstosh.github.io/image-repo/tags/anti-capitalism/</link>
       <pubDate>Fri, 06 Apr 2018 12:21:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/anti-capitalism/</guid>
+      <guid>https://qstosh.github.io/image-repo/tags/anti-capitalism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vegan</title>
-      <link>http://localhost:1313/tags/vegan/</link>
+      <link>https://qstosh.github.io/image-repo/tags/vegan/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/vegan/</guid>
+      <guid>https://qstosh.github.io/image-repo/tags/vegan/</guid>
       <description></description>
     </item>
     
